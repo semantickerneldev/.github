@@ -2,5 +2,4 @@
 
 A learning resource for developers shaping our AI-powered future. 
 
-Obviously there's an emphasis on Semantic Kernel and AI, but other topics may show up too.
-
+Emphasis is on Semantic Kernel (especially via .NET/C#) and general AI topics.
